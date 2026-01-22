@@ -12,4 +12,4 @@ Preprocessing:
 - Assignment 1 - Foundations Reflection.ipynb
 
 Written report (3 pages) including:
-  - Introduction, methods, results, reflection, and conclusion
+  - Introduction, methods, results, reflection, and conclusion 
