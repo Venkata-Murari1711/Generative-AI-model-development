@@ -11,5 +11,5 @@ Preprocessing:
 ## Files in this Repository
 - Assignment 1 - Foundations Reflection.ipynb
 
-Written report (2–3 pages) including:
+Written report (3 pages) including:
   - Introduction, methods, results, reflection, and conclusion
