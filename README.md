@@ -1,15 +1,6 @@
-This project compares:
-- **Discriminative model:** Logistic Regression (classification)
-- **Generative model:** Simple GAN (image generation)
+This Repo Contains:
+- **Assignment 1:** Discriminative (Logistic Regression) and Generative model (GAN)
+   - **Dataset:** MNIST dataset
+- **Assignment 2:** Transformer Architecture (GPT-2, BERT, and T5 model)
+   - **Dataset:** CNN Dailymail
 
-Both models are trained on the **MNIST dataset**
-
-Preprocessing:
-- **Logistic Regression:** images flattened to 784 features and normalized to **[0,1]**
-- **GAN:** images scaled to **[-1,1]** to match the generator’s `tanh` output
-  
-## Files in this Repository
-- Assignment 1 - Foundations Reflection.ipynb
-
-Written report (3 pages) including:
-  - Introduction, methods, results, reflection, and conclusion 
