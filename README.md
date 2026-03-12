@@ -16,6 +16,7 @@
    - **Platform:** Google Colab (T4 GPU)
    - **Framework:** Hugging Face Transformers
    - **Model:** Qwen/Qwen2.5-VL-7B-Instruct (bfloat16 precision)
+     
    **Test Cases**
    #### Case 1: Image-Based Question Answering
    **Input:** Beach sunset image with 4 people jumping  
